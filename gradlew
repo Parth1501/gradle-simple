@@ -1,8 +1,5 @@
 #!/usr/bin/env sh
 
-##############################################################################
-##
-##  Gradle start up script for UN*X
 
 PRG="$0"
 # Need this for relative symlinks.
